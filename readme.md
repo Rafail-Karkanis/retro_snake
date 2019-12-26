@@ -6,7 +6,7 @@ Authors: Karkanis Rafail, Lialia Vasiliki
 
 e-mails: rkarkanis@uth.gr, livasiliki@uth.gr
 
-Programming Language: ISO/IEC 9899:2011
+Programming Language: ISO/IEC 9899:1990 (C90)
 
 Theme of exercise: Retro Snake.
 
